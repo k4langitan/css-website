@@ -63,7 +63,7 @@ a:hover {
 .top-container {
   background-color: #e4f9f5;
   position: relative;
-  padding-top: 100px;
+  padding-top: 150px;
 }
 
 .middle-container {
@@ -149,4 +149,8 @@ p {
 .copyright {
   color: #eaf6f6;
   font-size: 0.75 rem;
+}
+
+.introhead {
+  font-size: 150%;
 }
